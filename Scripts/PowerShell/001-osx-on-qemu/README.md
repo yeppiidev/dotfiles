@@ -2,9 +2,7 @@
 
 This script allows you to run MacOS X Puma using QEMU for PowerPC
 
-## Usage
-
-# Installing OS X Puma
+# Usage
 
 - Download the ISO image from [winworldpc.com](https://winworldpc.com/)
 - Download the scripts from this repo and put it together with the ISO image in a folder
