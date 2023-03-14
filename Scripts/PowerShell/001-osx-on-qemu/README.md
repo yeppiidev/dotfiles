@@ -10,6 +10,6 @@ This script allows you to run MacOS X Puma using QEMU for PowerPC
 - Install the OS on the generated hard disk by running `start_installer.ps1`
 - After installation, close QEMU, and run `start_harddisk.ps1`
 
-If everything worked correctly, you should see the OS X Puma desktop!
+If everything went the way it should and installed the system correctly, you should see the OS X Puma desktop!
 
 ***Note: This page is a WIP (Work-In-Progress). Please check back later!***
