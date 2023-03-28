@@ -9,8 +9,8 @@
 # this script folder
 
 # Get the required details
-$hdd = Read-Host 'Enter the name of the hard disk file'
-$size = Read-Host 'Enter the size of the hard disk file (M for megs, G for gigs, etc.)'
+$hdd = Read-Host 'filename of the virtual disk'
+$size = Read-Host 'size of the virtual disk (M for megs, G for gigs, etc.)'
 
 # P.S: You need to have qemu-img installed
 # in order to run this script. You can change this
@@ -26,5 +26,5 @@ try {
     & $tool $params
 } finally {
     # TODO: Improve this error message
-    Write-Host -ForegroundColor Yellow "The disk creation process was cancelled. Please re-run the script and enter in the correct details without any errors."
+    Write-Host -ForegroundColor Yellow "error: the disk creation process was cancelled. please re-run the script and enter in the correct details without any errors."
 }
