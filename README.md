@@ -1,5 +1,5 @@
 # Dotfiles and Stuff
- Python/Shell/PowerShell Scripts, DotFiles/ConfigFiles, Automation Scripts, etc. that I made for personal use
+Python/Shell/PowerShell scripts, dotfiles/configuration files, automation scripts, etc.
 
 # Contents
 ## Scripts
