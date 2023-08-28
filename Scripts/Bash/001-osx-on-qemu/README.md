@@ -12,4 +12,4 @@ This script allows you to run MacOS X Puma using QEMU for PowerPC
 
 If everything went the way it should and installed the system correctly, you should see the OS X Puma desktop!
 
-***Note: This page is a WIP (Work-In-Progress). Please check back later!***
+***Note: This page is a WIP (Work-In-Progress).***
